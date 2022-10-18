@@ -3,7 +3,7 @@
   "packageRules": [
     {
       "matchManagers": ["npm"],
-      "rangeStrategy": "update-lockfile"
+      "rangeStrategy": "pin"
     }
   ]
 }
